@@ -4,7 +4,7 @@
 - 👨🏻‍🎓 Yandex.Practicum student
 - 🤝 Ready to collaborate with experienced colleagues
 - 📫 How to reach me: 
-  * <a  href="https://web.telegram.org/k/" target="_blank"> <img src="./img/telegramm.png" alt="Telegram" height = 20></a>
+  * <a  href="https://t.me/RustyVoid" target="_blank"> <img src="./img/telegramm.png" alt="Telegram" height = 20></a>
   * <a  href="https://www.instagram.com/akolosof/" target="_blank"> <img src="./img/inst.png" alt="Instagram" height = 20></a>
   * <a  href="mailto:Oldliberty@yandex.ru" target="_blank"> <img src="./img/mail.png" alt="Gmail" height = 20></a>
 --------------------------
