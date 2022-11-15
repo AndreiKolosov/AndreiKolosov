@@ -1,12 +1,31 @@
+
+<div id="header" align="center" >
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116b53a1c62d3f90bd0dfa2656365f99f28a0cf470&rid=giphy.gif&ct=g" width="700"/>
+  <div id="badge">
+    <a href="https://t.me/RustyVoid">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram badge">
+    </a>
+    <a href="http://www.linkedin.com/in/andreykolosov">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="https://vk.com/rustyvoid">
+      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK">
+    </a>
+   <a href="mailto:oldliberty@yandex.ru">
+      <img src="https://img.shields.io/badge/oldliberty%40yandex.ru-blue?style=for-the-badge&logo=Mail">
+    </a>
+  </div>
+</div>
+
 ### Hi there 👋
 ---------------
-
+- 🤓 Junior Front-end Develoer
 - 👨🏻‍🎓 Yandex.Practicum student
+- 🏇 I enjoy horse riding
+- 👨‍💻 Learning React
+- 💻 Passionate about intuitive and interactive user interfaces and
 - 🤝 Ready to collaborate with experienced colleagues
-- 📫 How to reach me: 
-  * <a  href="https://t.me/RustyVoid" target="_blank"> <img src="./img/telegramm.png" alt="Telegram" height = 20></a>
-  * <a  href="https://www.instagram.com/akolosof/" target="_blank"> <img src="./img/inst.png" alt="Instagram" height = 20></a>
-  * <a  href="mailto:Oldliberty@yandex.ru" target="_blank"> <img src="./img/mail.png" alt="Gmail" height = 20></a>
+
 --------------------------
 
 <div style={{ display: 'flex', align-items: 'center'  }}>
