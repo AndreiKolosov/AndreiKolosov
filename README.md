@@ -23,7 +23,7 @@
 - 👨🏻‍🎓 Yandex.Practicum student
 - 🏇 I enjoy horse riding
 - 👨‍💻 Learning React
-- 💻 Passionate about intuitive and interactive user interfaces and
+- 💻 Passionate about intuitive and interactive user interfaces
 - 🤝 Ready to collaborate with experienced colleagues
 
 --------------------------
