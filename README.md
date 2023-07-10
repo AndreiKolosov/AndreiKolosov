@@ -19,8 +19,8 @@
 
 ### Hi there 👋
 ---------------
-- 🤓 Junior Front-end Develoer
-- 👨🏻‍🎓 Yandex.Practicum student
+- 🤓 Middle Front-end Develoer
+- 👨🏻‍🎓 Yandex.Practicum alumnus
 - 🏇 I enjoy horse riding
 - 👨‍💻 Learning React
 - 💻 Passionate about intuitive and interactive user interfaces
